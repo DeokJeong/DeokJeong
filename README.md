@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=14,15,18,28&height=300&section=header&text=%20BoraNam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=14,15,18,28&height=300&section=header&text=%20BORA_NAM&animation=twinkling&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=14,15,18,28&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <!--
