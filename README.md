@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=14,15,18,28&height=300&section=header&text=%20Hello!%20I'm%20Bora!%20&animation=fadeIn&fontColor=ffdb4d&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=14,15,18,28&height=300&section=header&text=%20Hello!%20I'm%20Bora!%20&animation=fadeIn&fontColor=ffdb4d&fontSize=90&fontAlign=50&descSize=30)
 
-<!--
+
 **DeokJeong/DeokJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
